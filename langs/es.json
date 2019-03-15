@@ -1,0 +1,292 @@
+{
+    
+    "kiss": {
+        "nope1": "Yo no hago esas cosas",
+        "nope2": "intenta mencionar a alguien",
+        "nope3": "No le hagas esa cosa a mi creador",
+        "nope4": "menciona a alguien mas",
+        "automen": "No se por que te automencionas, no puedes besarte a ti mismo y yo no lo hare, tu vida debe ser muy triste para que intentes besarte a ti mismo",
+        "autoid": "No se por que pones tu propia id, no puedes besarte a ti mismo y yo no lo hare, tu vida debe ser muy triste para que intentes besarte a ti mismo",
+        "kissedto": "besó a",
+        "kiss":"besó",
+        "help": {
+            "title": "Comando besar",
+            "description": "Besa a alguien en el servidor",
+            "use": "\n-besar @usuario\no\n-besar <id>"
+        }
+    },
+
+    "pat": {
+        "patyou": "Te acaricio",
+        "automen": "No se porque te automencionas pero de todas formas te acariciaré",
+        "autoid": "No se porque pones tu propia id pero de todas formas te acariciaré",
+        "patedto": "acarició a",
+        "pat":"acarició",
+        "help": {
+            "title": "Comando acariciar",
+            "description": "Acaricia a alguien en el servidor",
+            "use": "\n-acariciar @usuario\no\n-acariciar <id>"
+        }
+    },
+
+    "poke": {
+        "pokeyou": "Te molesto",
+        "automen": "No se porque te automencionas pero de todas formas te molestaré",
+        "autoid": "No se porque pones tu propia id pero de todas formas te molestaré",
+        "pokedto": "molesto a",
+        "poke":"molestó",
+        "help": {
+            "title": "Comando molestar",
+            "description": "Molesta a alguien en el servidor",
+            "use": "\n-molestar @usuario\no\n-cosquillas <id>"
+        }
+    },
+
+    "slap": {
+        "iduno1": "No entiendo por que quieres que te abofetee",
+        "iduno2": "pero de todas formas lo hare",
+        "automen": "No se por que te automencionas para esto pero de todas formas te abofeteare",
+        "autoid": "No se por que pones tu propia id para esto pero de todas formas te abofeteare",
+        "nani": "pero de todas formas lo hare",
+        "slapedto": "abofeteó a",
+        "slap": "abofeteó",
+        "help": {
+            "title": "Comando abofetear",
+            "description": "Abofetea a alguien en el servidor",
+            "use": "\n-abofetear @usuario\no\n-abofetear <id>"
+        }
+    },
+
+    "tickle": {
+        "tickleyou": "Te hago cosquillas",
+        "automen": "No se por que te automencionas pero de todas formas te hare cosquillas",
+        "autoid": "No se por que pones tu propia id pero de todas formas te hare cosquillas",
+        "tickledto": "le hizo cosquillas a",
+        "tickle":"hizo cosquillas",
+        "help": {
+            "title": "Comando cosquillas",
+            "description": "Hazle cosquillas a alguien en el servidor",
+            "use": "\n-cosquillas @usuario\no\n-cosquillas <id>"
+        }
+    },
+    
+    "booru": {
+        "nosource": "No existe fuente",
+        "hypnocase": "La imagen es de <hypnohub.net>, y esto genera un error asi que la imagen sera enviada debajo de este mensaje",
+        "hereisurimg": "Aqui esta tu imagen",
+        "tags": "Etiquetas",
+        "rating": "Clasificación",
+        "source": "Fuente",
+        "link2img": "Enlace a la imagen",
+        "sorrynsfw": "lo lamento, no puedo mostrar el contenido de esa pagina aquí, intenta en un canal nsfw",
+        "nopage": "no puedo encontrar esa pagina",
+        "weird": "que raro, no encuentro ninguna imagen con estas etiquetas en esta pagina, intenta con otras etiquetas o en otra pagina",
+        "ratings": {
+            "s": "Seguro",
+            "q": "Cuestionable",
+            "e": "Explicito",
+            "u": "Sin clasificar"
+        },
+        "help": {
+            "title": "Modulo booru",
+            "description": "El modulo booru permite buscar imagenes NSFW y SFW de 17 paginas",
+            "useforrandomimg": "Uso para imagen aleatoria",
+            "useforrandimginspecsite": "Uso para imagen aleatoria en un sitio especifico",
+            "useforrandimginspecsitetext": "<sitio>",
+            "useforspecimginspecsite": "Uso para imagen especifica en un sitio especifico",
+            "useforspecimginspecsitetext": "<sitio> <etiqueta 1> <etiqueta 2> <etiqueta 3>...",
+            "sfwsites": "Sitios **SFW** con sus abreviaciones",
+            "nsfwsites": "Sitios **NSFW** con sus abreciaciones\n(solo funcionan en canales NSFW)",
+            "furry": "Furros",
+            "hypnotism": "Hypnotismo",
+            "r34warn": "Elige tus palabras sabiamente o dudo que quieras volver a usar esta pagina",
+            "gelbooruagain": "Portal que redirecciona a Gelbooru",
+            "r34again": "Rule 34 pero con otro nombre",
+            "dontlewdlolis": "**VAS A IR A LA CARCEL**"
+        }
+    },
+
+    "help": {
+        "title": "Ayuda",
+        "description": "Estas son las cosas que puedo hacer",
+        "needmorehelp": "Como usar los comandos",
+        "morehelp": "ayuda <comando>",
+        "comands": "Comandos",
+        "moarhelp": "ayuda comandos",
+        "ifyouneedmoarhelp": "Entra aquí para recibir ayuda",
+        "weareinsupportsv": "Espera, parece que ya estamos en el servidor de soporte, ve a hacer tus preguntas en ",
+        "botdevelopedby": "Bot desarrollado por",
+        "help": {
+            "title": "Comando Ayuda",
+            "description": "No puedo creer que en verdad necesites ayuda con el comando ayuda"
+        },
+        "commands": {
+            "title": "Comandos",
+            "description": "Estos son todos los comandos que tengo disponibles",
+            "modules": {
+                "actions": "Acciones",
+                "actionsnsfw": "Acciones NSFW",
+                "booru": "Booru",
+                "bot": "Funciones del Bot",
+                "botowner": "Dueño del bot solamente",
+                "easter": "Secretos",
+                "economy": "Economia",
+                "moderation": "Moderación",
+                "music": "Musica",
+                "other": "Otros",
+                "utility": "Utilidad",
+                "profile": "Perfil"
+            }
+        }
+    },
+
+    "info": {
+        "infoof": "Información de",
+        "tisbotiscreatedby": "Este bot es creado por",
+        "withthepurpouse": "con el fin de crear un bot multiproposito capaz de cumplir las funciones de otros bots",
+        "indevelopment": "En desarrollo por",
+        "imalivethanks": "Vivo gracias a",
+        "timeonline": "Tiempo en linea",
+        "help": {
+            "title": "Comando información",
+            "description": "Este comando no necesita un texto para saber como usarlo"
+        }
+    },
+
+    "invite": {
+        "title": "Invitación",
+        "description": "Aqui tienes un par de enlaces para invitarme a tu servidor",
+        "admlink": "Enlace de administrador, permite que use todos mis modulos sin problemas",
+        "baslink": "Enlace de modulos basicos, solo permite que lea, envie mensajes y conectarme a canales de voz para mi modulo de música",
+        "help": {
+            "title": "Comando invitación",
+            "description": "Usando este comando te enviare un enlace para que puedas meterme a tu servidor **(también funciona si usas el comando en mensaje privado)**"
+        }
+    },
+
+    "dmeme": {
+        "only": "Solo acepto numeros del 1 al 16 si quieres una imagen en especifico",
+        "help": {
+            "title": "Comando dmeme",
+            "description": "Envia imagenes de memes de pings globales",
+            "use": "\n-dmeme\no\n-f <numero del 1 al 16>"
+        }
+    },
+
+    "f": {
+        "withouttext": "ha dado su respeto",
+        "withtext": "ha dado su respeto por",
+        "help": {
+            "title": "Comando f",
+            "description": "Con este comando puedes dar tus respetos",
+            "use": "\n-f\no\n-f <Texto,con menciones o cualquier otra cosa>"
+        }
+    },
+
+    "say": {
+        "help": {
+            "title": "Comando decir/repetir",
+            "description": "Con este comando puedes hacer que el bot repita lo que digas",
+            "use": "\n-say <texto del mensaje>"
+        }
+    },
+
+    "ping": {
+        "help": {
+            "title": "Comando ping",
+            "description": "Con este comando puedes ver el retraso que existe entre mi servidor y los servidores de discord",
+            "use": "\n-ping"
+        }
+    },
+
+    "contest": {
+        "help":{
+            "title": "Comando probar conexión",
+            "description": "Solo puede ser usado por el dueño del bot",
+            "fieldd": "Este comando permite hacer una prueba de conexión con la base de datos de mysql"
+        }
+    },
+
+    "servers": {
+        "help":{
+            "title": "Comando servidores",
+            "description": "Solo puede ser usado por el dueño del bot",
+            "fieldd": "Este comando permite ver en que servidores esta el bot"
+        }
+    },
+
+    "setlvl": {
+        "lvlset": "Se han establecido el nivel de",
+        "nolvl": "No me has dicho el nivel",
+        "nouser": "Este no es un usuario",
+        "help":{
+            "title": "Comando establecer nivel",
+            "description": "Solo puede ser usado por el dueño del bot",
+            "use": "\n-setlvl @usuario/id <número de nivel>",
+            "before": "Antes",
+            "btext": "Se recomienda primero bajar la experiencia del usuario para evitar que se vuelva a poner su nivel",
+            "fieldd": "Este comando permite ver en que servidores esta el bot"
+        }
+    },
+
+    "setxp": {
+        "xpset": "Se han establecidos los puntos de experiencia de",
+        "noxp": "No me has dicho la cantidad de experiencia",
+        "nouser": "Este no es un usuario",
+        "help":{
+            "title": "Comando establecer experiencia",
+            "description": "Solo puede ser usado por el dueño del bot",
+            "use": "\n-setlvl @usuario/id <número de nivel>",
+            "before": "Antes",
+            "btext": "Se recomienda primero bajar la experiencia del usuario para evitar que se vuelva a poner su nivel",
+            "fieldd": "Este comando permite ver en que servidores esta el bot"
+        }
+    },
+
+    "banana": {
+        "help": {
+            "description": "Intenta añadir la palabra **time** al comando"
+        }
+    },
+
+    "kill": {
+        "help": {
+            "title": "Comando kill",
+            "description": "Intenta usarlo con /"
+        }
+    },
+
+    "winupdt": {
+        "help": {
+            "description": "Cuando hay una actualización de windows no hay nada que puedas hacer"
+        }
+    },
+
+    "leave": {
+        "leavefrom":"Conectado a",
+        "notch":"Tienes que estar en un canal de voz",
+        "noqueue":"Parece que no hay nada en la cola, por que no intentas agregar canciones con el comando **-play**",
+        "help": {
+            "title":"Comando salir",
+            "description":"Este comando me hace salir del canal de voz al que este conectado, si existe una cola en el servidor la guardare para seguirla reproduciendo"
+        }
+    },
+
+    "join": {
+        "joinedto":"Conectado a",
+        "notch":"Tienes que estar en un canal de voz",
+        "noqueue":"Parece que no hay nada en la cola, por que no intentas agregar canciones con el comando **-play**",
+        "help": {
+            "title":"Comando entrar",
+            "description":"Este comando me hace entrar al canal de voz al que estes conectado, si existe una cola en el servidor la continuare reproduciendo"
+        }
+    },
+    
+    "to": "a",
+    "use": "Uso",
+    "forwhat": "¿Para qué sirve?",
+    "onlyowner": "Este comando solo puede ser usado por el dueño del bot",
+    "nani": "Mo se encontro al usuario",
+    "helpfooter": "Recuerda quitar las <> al usar el comando",
+    "nsfwact": "No puedes hacer ese tipo de cosas en un canal que no es nsfw"
+}

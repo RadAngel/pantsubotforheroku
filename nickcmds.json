@@ -1,0 +1,36 @@
+{
+    "ayuda": "help",
+
+    "botinfo" : "info",
+
+    "invitación": "invite",
+    "invitar": "invite",
+    
+    "decir": "say",
+    "repetir": "say",
+    "echo": "say",
+    "repeat": "say",
+    "tell": "say",
+    
+    "respect": "f",
+    "respeto": "f",
+    "r":"f",
+
+    "juntar":"ship",
+
+    "perfil": "profile",
+
+    "genero": "gender",
+
+    "mp" : "pm",
+
+    "clima": "weather",
+
+    "molestar": "poke",
+    "picar": "poke",
+
+    "abofetear": "slap",
+
+    "cosquillas": "tickle"
+
+}
