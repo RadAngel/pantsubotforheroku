@@ -5,6 +5,7 @@
   "name": "pantsubot",
   "version": "0.4.0",
   "description": "What am I about?",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
