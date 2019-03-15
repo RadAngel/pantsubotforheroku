@@ -47,13 +47,7 @@
   "engines": {
     "node": "10.x"
   },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/my-glitch-app"
-  },
   "license": "MIT",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
   ]
 }
