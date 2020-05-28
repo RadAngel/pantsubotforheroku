@@ -160,7 +160,7 @@ module.exports.eventrun = async (bot, message, db, talkedRecently, nickcmds) => 
             webhook = await message.channel.fetchWebhooks()
             var webhuk = new Discord.WebhookClient(webhook.map(w => w.id), webhook.map(w => w.token));
             webhuk.send("!Oh cielos, un Botin **SUPER RARO**! !Todos tienen __**20 Segundos**__ para disputarserlo! Escribe `pick` !por la oportunidad de conseguirlo!", {
-                file: "./assets/polluxjoke/chest.png"
+                file: "https://cdn.discordapp.com/attachments/715648446912266330/715648563681689760/chest.png"
             })
                 .then(kek =>
                     webhuk.send("Participantes para esta Caja:")
