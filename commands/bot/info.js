@@ -28,7 +28,7 @@ module.exports.run = async (bot,message,transsv,nickcmds,db) => {
             .addField(transsv.info.indevelopment,"```"+"js\n"+timedev.join(" ")+"```",false)
             .addField(transsv.info.imalivethanks,'```js\n'+cpus()[0].model+'```')
             .addField(transsv.info.timeonline,"```"+"js\n"+timeonline.join(" ")+"```",false)
-            .setFooter(`PantsuBot v${bot.ver}`,bot.user.avatarURL)
+            .setFooter(`${bot.user.username} v${bot.ver}`,bot.user.avatarURL)
             .setColor(bot.color);
         message.channel.send(embed);
     }
